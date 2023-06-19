@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: app1-nginx
-          image: rajendra4/midhunam:tag1
+          image: rajendra4/midhunam1:tag1
           ports:
             - containerPort: 8080
